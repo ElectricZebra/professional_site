@@ -12,10 +12,9 @@ function App() {
         <p>
           coming soon...Nicholas Regoli!!
         </p>
-        <h2>Projects</h2>
+
         <Projects />
 
-        <h2>Resume</h2>
         <Resume />
 
       </header>
